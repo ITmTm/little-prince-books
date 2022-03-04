@@ -1,0 +1,58 @@
+body {
+    background: #0cf581a2;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+p {
+    text-align:center;
+    font-weight: bold;
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+
+hr {
+    border: solid;
+    border-color: steelblue;
+    border-width: 1px;
+
+}
+
+h1 {
+    font-size: 25px;
+    text-align: center;
+}
+
+
+h2 {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: bold;
+    color: rgb(230, 82, 82);
+}
+
+
+i {
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.begin {
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+
+.uppercase {
+    text-transform: uppercase;
+}
+
